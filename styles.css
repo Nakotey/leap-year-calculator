@@ -1,0 +1,45 @@
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1610888662651-05dbdec7cfae?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGNhbGVuZGFyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+
+div {
+    text-align: center;
+    margin: 15rem;
+}
+
+div label {
+    color: white;
+    font-size: 30px;
+}
+div #yearID {
+    width: 200px;
+    height: 20px;
+}
+
+div span {
+    background-color: teal;
+    color: white;
+    font-size: 3rem;
+
+}
+
+div button {
+    width: 5rem;
+    margin-top: 2rem;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: aqua;
+}
+
